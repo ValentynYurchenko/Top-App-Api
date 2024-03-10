@@ -1,0 +1,123 @@
+[
+  {
+    "_id": {
+      "secondCategory": "Аналитика"
+    },
+    "pages": [
+      {
+        "alias": "financial-analytics",
+        "title": "Курсы по финансовой аналитике",
+        "_id": "6066183d28780011716a47ac1",
+        "category": "Финансовая аналитика"
+      },
+      {
+        "alias": "big-data",
+        "title": "Курсы по Big Data",
+        "_id": "6066183d2528082716a47ac1",
+        "category": "Big Data"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "secondCategory": "Бизнес"
+    },
+    "pages": [
+      {
+        "alias": "python",
+        "title": "Курсы Python",
+        "_id": "6648183d2878082716a47ac1",
+        "category": "Python"
+      },
+      {
+        "alias": "1C",
+        "title": "Курсы 1C",
+        "_id": "6066183d2528082716a47ac1",
+        "category": "1C"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "secondCategory": "Маркетинг"
+    },
+    "pages": [
+      {
+        "alias": "python",
+        "title": "Курсы Python",
+        "_id": "606183d28778082716a47ac1",
+        "category": "Python"
+      },
+      {
+        "alias": "1C",
+        "title": "Курсы 1C",
+        "_id": "6066183d2528082716a47ac1",
+        "category": "1C"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "secondCategory": "Програмирование"
+    },
+    "pages": [
+      {
+        "alias": "python",
+        "title": "Курсы Python",
+        "_id": "6066183d2878082716a47ac1",
+        "category": "Python"
+      },
+      {
+        "alias": "1C",
+        "title": "Курсы 1C",
+        "_id": "6066183d2528082716a47ac1",
+        "category": "1C"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "secondCategory": "Прочее"
+    },
+    "pages": [
+      {
+        "alias": "cutting-sewing",
+        "title": "Курсы кройки и шитья",
+        "_id": "6068883d2878082716a47ac1",
+        "category": "Кройка и шитье"
+      },
+      {
+        "alias": "photography",
+        "title": "Курсы фотографии",
+        "_id": "6055183d2528082716a47ac1",
+        "category": "Курсы фотографии"
+      },
+      {
+        "alias": "floristics",
+        "title": "Курсы флористики",
+        "_id": "6044183d2528082716a47ac1",
+        "category": "Курсы флористики"
+      }
+    ]
+  },
+
+  {
+    "_id": {
+      "secondCategory": "Строительство"
+    },
+    "pages": [
+      {
+        "alias": "photoshop",
+        "title": "Курсы мостостроительства",
+        "_id": "60222183d2878082716a47ac1",
+        "category": "Курсы мостостроительства"
+      },
+      {
+        "alias": "photography",
+        "title": "Курсы кирпичной кладки",
+        "_id": "6099183d2528082716a47ac1",
+        "category": "Курсы кирпичной кладки"
+      }
+    ]
+  }
+]
