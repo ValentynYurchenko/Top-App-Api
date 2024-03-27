@@ -24,16 +24,16 @@
     },
     "pages": [
       {
-        "alias": "python",
-        "title": "Курсы Python",
+        "alias": "inventor",
+        "title": "Курсы иновационного бизнеса",
         "_id": "6648183d2878082716a47ac1",
-        "category": "Python"
+        "category": "Inventor"
       },
       {
-        "alias": "1C",
-        "title": "Курсы 1C",
+        "alias": "webstore",
+        "title": "Курсы интернет-магазинов",
         "_id": "6066183d2528082716a47ac1",
-        "category": "1C"
+        "category": "webstore"
       }
     ]
   },
@@ -43,16 +43,10 @@
     },
     "pages": [
       {
-        "alias": "python",
-        "title": "Курсы Python",
+        "alias": "trade",
+        "title": "Курсы продаж",
         "_id": "606183d28778082716a47ac1",
-        "category": "Python"
-      },
-      {
-        "alias": "1C",
-        "title": "Курсы 1C",
-        "_id": "6066183d2528082716a47ac1",
-        "category": "1C"
+        "category": "Trade"
       }
     ]
   },
@@ -68,10 +62,10 @@
         "category": "Python"
       },
       {
-        "alias": "1C",
-        "title": "Курсы 1C",
+        "alias": "javascript",
+        "title": "Курсы javascript",
         "_id": "6066183d2528082716a47ac1",
-        "category": "1C"
+        "category": "js"
       }
     ]
   },
@@ -81,10 +75,10 @@
     },
     "pages": [
       {
-        "alias": "cutting-sewing",
-        "title": "Курсы кройки и шитья",
+        "alias": "photoshop",
+        "title": "Курсы фотошоп",
         "_id": "6068883d2878082716a47ac1",
-        "category": "Кройка и шитье"
+        "category": "Фотошоп"
       },
       {
         "alias": "photography",
@@ -93,7 +87,7 @@
         "category": "Курсы фотографии"
       },
       {
-        "alias": "floristics",
+        "alias": "flouwer",
         "title": "Курсы флористики",
         "_id": "6044183d2528082716a47ac1",
         "category": "Курсы флористики"
@@ -107,13 +101,13 @@
     },
     "pages": [
       {
-        "alias": "photoshop",
+        "alias": "bridge",
         "title": "Курсы мостостроительства",
         "_id": "60222183d2878082716a47ac1",
         "category": "Курсы мостостроительства"
       },
       {
-        "alias": "photography",
+        "alias": "development",
         "title": "Курсы кирпичной кладки",
         "_id": "6099183d2528082716a47ac1",
         "category": "Курсы кирпичной кладки"
